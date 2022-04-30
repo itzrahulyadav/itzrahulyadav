@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A Full stack developer from India who is passionate about coding and building new stuff</h3>
+<h3 align="center">A Front end developer from India who is trying his hands at backend</h3>
+<h3 align = 'center'>I usually code in typescript,javascript,React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrahulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itzrahulyadav" /> </p>
 
@@ -11,7 +12,6 @@
 
 - 📫 How to reach me **rahulkyadav9691@gmail.com**
 
-- ⚡ Fun fact **I code under water to hide my tears**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
