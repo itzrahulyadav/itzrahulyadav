@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
 <h3 align="center">A Front end developer from India who is trying his hands at backend</h3>
-<h3 align = 'center'>I usually code in typescript,javascript,React</h3>
+<h3 align = 'center'>I usually code in Typescript,Javascript,React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrahulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itzrahulyadav" /> </p>
 
