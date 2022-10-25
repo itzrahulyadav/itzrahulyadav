@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A Front end developer from India who is trying his hands at backend</h3>
+<h3 align="center">Full Stack Developer and devops enthusiast.</h3>
 <h3 align = 'center'>I usually code in Typescript,Javascript,React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrahulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itzrahulyadav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itzrahulyadav_" target="blank"><img src="https://img.shields.io/twitter/follow/itzrahulyadav_?logo=twitter&style=for-the-badge" alt="itzrahulyadav_" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React,DSA,MERN stack**
+- 💬 Ask me about **React,DSA,DevOps,Cloud**
 
 - 📫 How to reach me **rahulkyadav9691@gmail.com**
 
