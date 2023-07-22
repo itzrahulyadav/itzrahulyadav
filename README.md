@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrahulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itzrahulyadav" /> </p>
 
 
-I am a Certified cloud practitioner and a Front end developer.Passionate about learning DevOps and help people get into cloud and sharing my learnings in cloud and DevOps. 
+Cloud and DevOps enthusiast . 
 
 ---
 
