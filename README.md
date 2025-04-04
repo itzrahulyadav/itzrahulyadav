@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-82%20Followers-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-yadav-2a4b3b199/">
-    <img src="https://img.shields.io/badge/LinkedIn-1358%20Connections-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-500+%20Connections-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.buymeacoffee.com/rahulkyadav">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-🥐-FFDD00?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee"/>
