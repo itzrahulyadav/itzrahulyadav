@@ -3,7 +3,7 @@
 
 
 [![Twitter Followers](https://img.shields.io/badge/Twitter-82-blue?style=social&logo=twitter)](https://twitter.com/itzrahulyadav_)
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-628-blue?style=social&logo=linkedin)](https://linkedin.com/in/rishabkumar7)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-1358-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rahul-yadav-2a4b3b199/)
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/rahulkyadav)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrahulyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itzrahulyadav" /> </p>
 
