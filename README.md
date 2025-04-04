@@ -121,16 +121,16 @@ Love to chat about tech, coffee, or life? Hit me up!
   <a href="https://twitter.com/itzrahulyadav_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50"/>
   </a>
-  <a href="https://instagram.com/itzrahulyadav" target="_blank">
+  <a href="https://www.instagram.com/_rxhxlx_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-yadav-2a4b3b199/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="https://www.leetcode.com/rxhxlx" target="_blank">
+  <a href="https://leetcode.com/u/itzrahulyadav/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/itzrahulyadav" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/coolextkid/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="50"/>
   </a>
 </div>
@@ -138,7 +138,7 @@ Love to chat about tech, coffee, or life? Hit me up!
 ---
 
 ### 🎯 Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "Code is like humor. If you have to explain it, it’s bad." — Cory House
 
 <div align="center">
   <p>Made with ❤️ by Rahul Yadav | Last Updated: April 2025</p>
